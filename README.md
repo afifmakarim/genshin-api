@@ -1,7 +1,7 @@
 # GENSHIN-API
 
 
-### Docs
+### API Docs
 
 `API Agreement:` By using this API you agree not to make a competing service (a web based Genshin Database) and credit me/link back to this website where appropiate.
 
