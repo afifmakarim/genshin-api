@@ -21,3 +21,4 @@ API Agreement: By using this API you agree not to make a competing service (a we
 
 ### Data Source
 See [Genshin Impact Helper Team's Character Builds](https://docs.google.com/spreadsheets/d/1gNxZ2xab1J6o1TuNVWMeLOZ7TPOqrsf3SshP5DLvKzI/htmlview#)
+See [gensh.in](https://www.gensh.in)
