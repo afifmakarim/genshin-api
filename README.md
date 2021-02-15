@@ -1,4 +1,4 @@
-# genshin-api
+# GENSHIN-API
 
 
 ### Docs
