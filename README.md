@@ -13,12 +13,12 @@
 
 | Method | Path | Description |
 | ------ | ------ | ------ |
-| GET | /characters | Retreives all characters |
-| GET | /character/:id | Retreives character by Id |
-| GET | /artifacts | Retreives all artifacts |
-| GET | /artifact/:id | Retreives artifact by Id |
-| GET | /weapons | Retreives all weapons |
-| GET | /weapon/:id | Retreives weapon by Id |
+| GET | /characters | Retrieves all characters |
+| GET | /character/:id | Retrieves character by Id |
+| GET | /artifacts | Retrieves all artifacts |
+| GET | /artifact/:id | Retrieves artifact by Id |
+| GET | /weapons | Retrieves all weapons |
+| GET | /weapon/:id | Retrieves weapon by Id |
 
 
 ### Data Source
