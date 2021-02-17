@@ -3,7 +3,7 @@
 
 ### API Docs
 
-`API Agreement:` By using this API you agree to credit me back to this website where appropiate.
+`API Agreement:` By using this API you agree to credit me back to this website where appropiate.<br>
 `Description:` Get character, weapon, artifact, best build guide information using our free unofficial API.
 
 
