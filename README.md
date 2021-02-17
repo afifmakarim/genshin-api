@@ -3,7 +3,9 @@
 
 ### API Docs
 
-`API Agreement:` By using this API you agree to credit me/link back to this website where appropiate.
+`API Agreement:` By using this API you agree to credit me back to this website where appropiate.
+`Description:` Get character, weapon, artifact, best build guide information using our free unofficial API.
+
 
 | baseUrl 
 | ------ |
@@ -25,4 +27,4 @@ See <a href="https://www.gensh.in" target="_blank">gensh.in</a><br>
 See <a href="https://genshin-impact.fandom.com/" target="_blank">genshin impact fandom</a>
 
 ### Donation
-https://trakteer.id/rojokundo
+<a href="https://trakteer.id/rojokundo" target="_blank">Trakteer</a>
